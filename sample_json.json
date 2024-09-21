@@ -1,0 +1,22 @@
+{
+    "applicant": {
+      "name": "John Doe",
+      "experience": 5,
+      "skills": ["Python", "Flask", "JavaScript", "React"],
+      "education": "B.Sc. in Computer Science",
+      "projects": [
+        {
+          "title": "E-commerce Website",
+          "description": "Developed a full-stack e-commerce website using React and Flask.",
+          "duration": "6 months"
+        },
+        {
+          "title": "AI Chatbot",
+          "description": "Built a chatbot using NLP techniques and integrated it into a customer support system.",
+          "duration": "4 months"
+        }
+      ],
+      "certifications": ["AWS Certified Solutions Architect", "Google Professional Cloud Architect"]
+    }
+  }
+  
